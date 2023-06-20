@@ -2,10 +2,6 @@
 
 ### About
 A multi-platform app for creating shapes scaled to a __Map Area__ using pure `SwiftUI`.
-
-If you like the project, don't forget to pub `star ★` and follow me on GitHub: <br />
-[![](https://github.com/IPH-Technologies-Pvt-Ltd/Draw-Shape-App-iOS)
-
 ___
 
 ### Contents
