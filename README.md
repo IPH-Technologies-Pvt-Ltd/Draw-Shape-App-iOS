@@ -25,8 +25,9 @@ __For instance:__
 In this project, we create basic shapes __scaled to a map__. The shapes will be positioned at a particular position with respect to the map.
 
 __Here is a quick preview of the app__ <br />
-`Mac` <br />
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/88987313/168597611-60d4c224-3eeb-4357-9645-3f3a3093fa3d.gif)
+`Mac`<br />
+![Saksham10](https://github.com/IPH-Technologies-Pvt-Ltd/Draw-Shape-App-iOS/assets/124572978/9b55c3ab-3b3c-4586-8872-517ba595a173)
+
 
 
 `iOS` <br />
